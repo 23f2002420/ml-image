@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic photo of a tailor carefully stitching an extremely tight suit onto a man frozen in an awkward twisted pose, the fabric stretched unnaturally to match every detail of the pose, inside a small tailoring workshop, natural lighting, highly detailed, cinematic, no text, no labels --no diagrams, symbols, AI icons",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A tailor fits a suit perfectly to one unnatural pose, representing a model that memorizes specific data but fails to generalize."
+}
